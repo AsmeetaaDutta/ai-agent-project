@@ -1,0 +1,2 @@
+serpapi_key = ""
+openai_key = ""

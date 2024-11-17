@@ -1,0 +1,13 @@
+streamlit        # For creating the dashboard
+pandas            # For CSV data handling
+openai           # For OpenAI's GPT API
+serpapi           # For SerpAPI web search integration
+google-auth      # For Google Sheets API authentication
+google-auth-oauthlib # For OAuth with Google Sheets
+google-api-python-client # For Google Sheets API client
+numpy            # For data manipulation
+seaborn         # For visualizations (confusion matrix)
+scikit-learn      # For confusion matrix calculation
+matplotlib       # For plotting
+langchain         # interact with the language model (e.g., OpenAI's GPT-4) for interpreting search results and extracting specific information
+gspread           # connect to Google Sheets for both reading data (if the user opts to import from a Google Sheet instead of a CSV)
